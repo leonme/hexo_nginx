@@ -1,5 +1,5 @@
 ---
-title: React实例入门教程(1)基础API,JSX语法
+title: React实例入门-基础API,JSX语法
 date: 2016-11-07 15:51:47
 comments: true
 categories: HTML5
@@ -10,7 +10,7 @@ tags:
 
 ---
 
-#React实例入门教程(1)基础API,JSX语法
+#React实例入门-基础API,JSX语法
 　　毫无疑问，react是目前最最热门的框架(没有之一)，了解并学习使用React，可以说是现在每个前端工程师都需要的。
 　　在前端领域，一个框架为何会如此之火爆，无外乎两个原因：性能优秀，开发效率高。React当然集成了这两大优点。
 　　这要归功于React的两大特点，也是该框架一直强调的优势：
